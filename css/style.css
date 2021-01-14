@@ -1,0 +1,33 @@
+.front-details h1{
+    color: #FA804C;
+}
+#front-color{
+    color: #363958;
+}
+.front-section{
+    height: 510px;
+    background-color: #FFF9F4;
+}
+.section-container{
+    background-color: #FFF9F4;
+}
+.card img{
+    height: 70%;
+    background-color: rgba(211, 211, 211, 0.801);
+    border-radius: 1em;
+}
+.card{
+    padding: 1em;
+    border-radius: 1em;
+    margin: 1.5em;
+}
+.card-end{
+    display: flex;
+    justify-content: space-between;
+}
+.contacts-card{
+    height: 150px;
+}
+#subscribe{
+    background-color: lightgrey;
+}
