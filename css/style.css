@@ -19,7 +19,7 @@
 .card{
     padding: 1em;
     border-radius: 1em;
-    margin: 1.5em;
+    margin-right: 1.5em;
 }
 .card-end{
     display: flex;
@@ -28,6 +28,13 @@
 .contacts-card{
     height: 150px;
 }
-#subscribe{
+#contact{
     background-color: lightgrey;
+}
+.card-icon{
+    height: 70px;
+    width: 70px;
+}
+.card-sec{
+    display: flex;
 }
